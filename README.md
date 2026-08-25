@@ -6,7 +6,7 @@ This project is an interactive **Sales & Revenue Analysis Dashboard** built usin
 
 ## 🚀 Dashboard Preview
 
-![Sales & Revenue Analysis Dashboard](dashboard.png)
+![Sales & Revenue Analysis Dashboard](./dashboard.png)
 
 > The image above shows the final Power BI dashboard.
 
